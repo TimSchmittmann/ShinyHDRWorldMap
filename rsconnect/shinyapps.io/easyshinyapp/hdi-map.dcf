@@ -1,0 +1,12 @@
+name: hdi-map
+title: hdi-map
+username:
+account: easyshinyapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 246978
+bundleId: 1126993
+url: https://easyshinyapp.shinyapps.io/hdi-map/
+when: 1512953862.27012
+asMultiple: FALSE
+asStatic: FALSE

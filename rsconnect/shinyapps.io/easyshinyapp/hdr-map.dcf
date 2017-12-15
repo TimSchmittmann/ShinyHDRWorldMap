@@ -1,0 +1,12 @@
+name: hdr-map
+title: hdr-map
+username:
+account: easyshinyapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 246981
+bundleId: 1137528
+url: https://easyshinyapp.shinyapps.io/hdr-map/
+when: 1513371841.05173
+asMultiple: FALSE
+asStatic: FALSE
